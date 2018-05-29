@@ -23,14 +23,19 @@ body {
 /* Increase the font size of the heading */
 .header h1 {
 	font-family: 'Roboto', sans-serif;
-    font-size: 48px;
+ 
+}
+
+.header h2 {
+	font-family: 'Roboto', sans-serif;
+  
 }
 
 /* Limit Width of Description */
 .description {
 	font-family: 'Lato';
-    font-size: 15px;
-	width: 700px;
+
+	width: 55vw;
     margin: auto;
 	background-color: rgba(255, 255, 255, 0.1);
 }
